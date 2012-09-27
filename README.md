@@ -19,6 +19,7 @@ Things that still need to be done:
 * A way of defining functions and saving them
 * Better User Interface (Readline like)
 * Enabling usage of console and window programs from this shell (i.e. vim, mplayer, vlc)
+* Make a function providing php help (probably by using PHP manual)
 
 Contributing
 ------------
