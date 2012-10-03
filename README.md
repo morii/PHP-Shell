@@ -1,6 +1,8 @@
 PHP shell
 =========
 
+I'm stopping the development of this script since I figured out that I just need to recompile PHP with the --with-readline option, to get the possibility to use interactive php shell. I decide what to do with this script after I check out this possibility. If I decide to stop this project I'll port the [Installation script](https://github.com/morii/Install-PHP-Shell) to work with php -a command instead.
+
 It's a really simple interactive PHP shell.
 
 Usage
