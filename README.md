@@ -14,7 +14,6 @@ TODO List
 Things that still need to be done:
 
 * More tests (also make PHPUnit tests)
-* A way to separate variables of this script (so you couldn't use them from the program)
 * A configuration file
 * A way of defining functions and saving them
 * Better User Interface (Readline like)

@@ -42,7 +42,7 @@ function test($src, $verbose = false) {
   $ret1 = -1;
   $ret2 = -1;
   exec("php <$src", $out1, $ret1);
-  exec("./php_shell -t -n < $src", $out2, $ret2);
+  exec("./php_shell.php -t -n < $src", $out2, $ret2);
   if($out1 != $out2) {
     if($verbose) {
       echo "The $src script generated two differnt outputs.\n";
